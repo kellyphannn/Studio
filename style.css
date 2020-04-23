@@ -1,0 +1,143 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "Lucida Console", Courier,monospace;
+}
+header{
+  background-image: url(file:///Users/MacintoshHD/Downloads/website/floorplan.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+.button1{
+  float: left;
+  list-style-type: none;
+  margin: 120px;
+}
+.button1{
+  display: inline-block;
+}
+.button1 a{
+  text-decoration: none;
+  color: #00FFFF;
+  padding: 5px 5px;
+  border: 4px solid #00FFFF;
+  font-size: 13px;
+  margin: 20px 27px;
+  text-align: center;
+  transition: 0.3s ease
+}
+.button1 li a:hover{
+  background-color: #fff;
+  color: #000;
+}
+.button2{
+  float: left;
+  list-style-type: none;
+}
+.button2{
+  display: block;
+  margin: 0px;
+}
+.button2 a{
+  text-decoration: none;
+  color: #00FFFF;
+  padding: 5px 5px;
+  border: 4px solid #00FFFF;
+  font-size: 13px;
+  margin: 20px 30px;
+  text-align: center;
+  transition: 0.3s ease;
+}
+.button2 a:hover{
+  background-color: #fff;
+  color: #000;
+}
+.button3{
+  float: center;
+  list-style-type: none;
+  margin: 40px 40px;
+}
+.button3{
+  display: inline-block;
+}
+.button3 a{
+  text-decoration: none;
+  color: #00FFFF;
+  padding: 15px 15px;
+  border: 4px solid #00FFFF;
+  font-size: 13px;
+  margin: 0px 0px;
+  text-align: center;
+  transition: 0.3s ease
+}
+.button3 a:hover{
+  background-color: #fff;
+  color: #000;
+}
+.button4{
+  float: left;
+  list-style-type: none;
+  margin: 120px;
+}
+.button4{
+  display: inline-block;
+}
+.button4 a{
+  text-decoration: none;
+  color: #00FFFF;
+  padding: 5px 5px;
+  border: 4px solid #00FFFF;
+  font-size: 13px;
+  margin: 20px 18px;
+  text-align: center;
+  transition: 0.3s ease
+}
+.button4 a:hover{
+  background-color: #fff;
+  color: #000;
+}
+.button5{
+  float: left;
+  list-style-type: none;
+  margin: 65px;
+}
+.button5 {
+  display: inline-block;
+}
+.button5 a{
+  text-decoration: none;
+  color: #00FFFF;
+  padding: 15px 15px;
+  border: 4px solid #00FFFF;
+  font-size: 13px;
+  margin: 20px 18px;
+  text-align: center;
+  transition: 0.3s ease
+}
+.button5 a:hover{
+  background-color: #fff;
+  color: #000;
+}
+.button6{
+  float: left;
+  list-style-type: none;
+  margin: 100px;
+}
+.button6{
+  display: inline-block;
+}
+.button6 a{
+  text-decoration: none;
+  color: #00FFFF;
+  padding: 15px 15px;
+  border: 4px solid #00FFFF;
+  font-size: 13px;
+  margin: 20px 18px;
+  text-align: center;
+  transition: 0.3s ease
+}
+.button6 a:hover{
+  background-color: #fff;
+  color: #000;
+}
